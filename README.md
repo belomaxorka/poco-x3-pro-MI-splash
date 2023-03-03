@@ -1,6 +1,6 @@
 # Modified MI Splash
 
-### Download zip archive from [here](https://github.com/belomaxorka/poco-x3-pro-MI-splash/releases), and flash it from your recovery. Splash screens created with [this](https://4pda.to/forum/index.php?s=&showtopic=1022379&view=findpost&p=115658666) tool.
+### Download zip archive from [here](https://github.com/belomaxorka/poco-x3-pro-MI-splash/releases/tag/mi-splash), and flash it from your recovery. Splash screens created with [this](https://github.com/belomaxorka/poco-x3-pro-MI-splash/releases/tag/tool-splash) tool.
 
 ### Supported devices: vayu (Xiaomi Poco X3 PRO), alioth (Xiaomi Poco F3).
 
