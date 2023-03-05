@@ -1,5 +1,7 @@
 # Modified MI Splash
 
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
+
 ### Download zip archive from [here](https://github.com/belomaxorka/poco-x3-pro-MI-splash/releases/tag/mi-splash), and flash it from your recovery. Splash screens created with [this](https://github.com/belomaxorka/poco-x3-pro-MI-splash/releases/tag/tool-splash) tool.
 
 ### Supported devices: vayu (Xiaomi Poco X3 PRO), alioth (Xiaomi Poco F3).
