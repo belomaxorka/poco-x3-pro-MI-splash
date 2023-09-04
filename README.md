@@ -3,13 +3,13 @@
 
 ## 🍒 Description
 
-Supported devices: vayu (Xiaomi Poco X3 PRO), alioth (Xiaomi Poco F3).
+**Supported devices: vayu (Xiaomi Poco X3 PRO), alioth (Xiaomi Poco F3).**
 
 Download zip archive from [here](https://github.com/belomaxorka/poco-x3-pro-MI-splash/releases/tag/mi-splash), and flash
 it from your recovery.
 
-PS: Splash screens created with [this](https://4pda.to/forum/index.php?s=&showtopic=1023354&view=findpost&p=114714184)
-tool.
+_PS: Splash screens created with [this](https://4pda.to/forum/index.php?s=&showtopic=1023354&view=findpost&p=114714184)
+tool._
 
 ## 📺 Overview
 
