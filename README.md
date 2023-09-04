@@ -13,9 +13,9 @@ tool._
 
 ## 📺 Overview
 
-<img height="auto" width="200" src="pic1.bmp" alt=""/>
+<div><img height="auto" width="200" src="pic1.bmp" alt=""/>
 <img height="auto" width="200" src="pic2.bmp" alt=""/>
-<img height="auto" width="200" src="pic4.bmp" alt=""/>
+<img height="auto" width="200" src="pic4.bmp" alt=""/></div>
 
 ## 💚 Contributors
 
